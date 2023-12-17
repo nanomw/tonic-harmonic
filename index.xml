@@ -2,7 +2,7 @@
 <level>
   <owner>nanomw</owner>
   <repo>tonic-harmonic</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="wolskp" repo="master-and-servant-octaves"/>
   <readme>
     <ru>366e37c0322559ef4b53a25b55fa00a9ca90b9f9defb79277951d68079e6de3e</ru>
@@ -26,7 +26,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -39,7 +38,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -52,7 +50,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -65,7 +62,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -78,7 +74,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -91,7 +86,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -104,7 +98,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -117,7 +110,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -130,7 +122,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
